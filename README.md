@@ -3,7 +3,7 @@
 
 A cool Nintendo based remix of Duck Hunt.
 ### Need help running?
-Extract the latest release and run "a dogs hunt.exe"
+Extract the latest release and run `Dog Hunt.exe`
 Enjoy :)
 ### Preview
 <img src="https://media.discordapp.net/attachments/725516879543795823/726966422223323176/unknown.png?width=796&height=443"></img>
