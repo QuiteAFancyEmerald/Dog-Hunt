@@ -10,5 +10,5 @@ Enjoy :)
 ### Credits
 Credits to Nintendo for the original game "Duck Hunt" and the rest of H.M.E Productions. (Hunter Deloney, Quite A Fancy Emerald, Michael N)
 
-©2019 H.M.E Productions
+©2020 H.M.E Productions
 
