@@ -1,5 +1,6 @@
 # Dog Hunt
 <img src="https://media.discordapp.net/attachments/725516879543795823/726966055527907451/unknown.png?width=445&height=249"></img>
+
 A cool Nintendo based remix of Duck Hunt.
 ### Need help running?
 Extract the latest release and run "a dogs hunt.exe"
